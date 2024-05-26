@@ -27,5 +27,4 @@
 - You can watch the video in <issue> menu, which contains the demonstration of the codes :
   https://github.com/ApplaudToPark/HandTracking-for-Python/issues/2#issuecomment-2132105620
   https://github.com/ApplaudToPark/HandTracking-for-Python/issues/11#issue-2317624579
-  https://github.com/ApplaudToPark/HandTracking-for-Python/issues/11#issuecomment-2132167750
   
