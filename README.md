@@ -15,4 +15,17 @@
 - September 5th, 2023  The second meeting was held.
   https://github.com/ApplaudToPark/HandTracking-for-Python/issues/6#issue-2317595531
   
-- 
+- September 9th, 2023  The 3rd meeting was held.
+  https://github.com/ApplaudToPark/HandTracking-for-Python/issues/8#issue-2317616143
+
+
+### The Release
+- It would be needed to run the code with "main_code_final.py" and "HandTrackingModule.py"
+- And also you need to install python and that modules :
+  cv2, numpy, comtypes, pycaw, pyautogui, mediapipe
+- If it is not installed, you cannot run the codes normally.
+- You can watch the video in <issue> menu, which contains the demonstration of the codes :
+  https://github.com/ApplaudToPark/HandTracking-for-Python/issues/2#issuecomment-2132105620
+  https://github.com/ApplaudToPark/HandTracking-for-Python/issues/11#issue-2317624579
+  https://github.com/ApplaudToPark/HandTracking-for-Python/issues/11#issuecomment-2132167750
+  
