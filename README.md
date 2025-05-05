@@ -1,8 +1,8 @@
 # Notice
 - And the project was shown in Capstone Design Competition held in Chung-Ang Univ. in Seoul.
 - The competition is held from May, 2023 to October 6th, 2023.
-- Every file in this repository belongs to 박민석(ID : ApplaudToPark).
-- The contribution of this project was definitely made by 박민석(ID : ApplaudToPark).
+- Every file in this repository belongs to 박민석 (ID : ApplaudToPark).
+- The contribution of this project was definitely made by 박민석 (ID : ApplaudToPark).
 - It could be used for a qualification for something.
 - It is ok to run the code for curiosities, but it cannot be used in competitions and for beneficial usage.
 
